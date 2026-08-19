@@ -1,0 +1,9 @@
+config/app.json
+config/supabase-key.dpapi
+database/*.db
+database/*.db-*
+uploads/*
+backups/*
+__pycache__/
+*.pyc
+
