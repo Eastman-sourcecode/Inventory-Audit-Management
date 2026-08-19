@@ -1,0 +1,13 @@
+{
+  "host": "127.0.0.1",
+  "port": 8080,
+  "database": "database/inventory_audit.db",
+  "session_hours": 8,
+  "smtp": {"enabled": false, "host": "", "port": 587, "starttls": true, "username": "", "password": "", "from": ""},
+  "whatsapp": {"enabled": false, "provider": "meta-cloud-api", "api_version": "v20.0", "token": "", "phone_number_id": ""},
+  "ocr": {"enabled": false, "provider": "azure-document-intelligence", "endpoint": "", "key": "", "model": "prebuilt-invoice", "api_version": "2024-11-30"},
+  "erp": {"enabled": false, "endpoint": "", "token": ""},
+  "supabase": {"enabled": false, "project_id": "txfjxjaeurszfxyjiqjd", "url": "https://txfjxjaeurszfxyjiqjd.supabase.co", "mode": "secure-mirror", "interval_seconds": 30, "batch_size": 100},
+  "https": {"enabled": false, "cert_file": "config/server.crt", "key_file": "config/server.key"},
+  "security": {"max_login_attempts": 5, "lockout_minutes": 15}
+}

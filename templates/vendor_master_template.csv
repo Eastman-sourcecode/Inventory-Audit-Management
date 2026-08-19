@@ -1,0 +1,3 @@
+vendor_code,legal_name,trade_name,gstin_tax_id,pan_registration_no,contact_person,email,phone,address_line,city,state,postal_code,country,payment_terms,department,approval_status,active
+V001,Sample Supplier Private Limited,Sample Supplier,29ABCDE1234F1Z5,ABCDE1234F,Accounts Contact,accounts@example.com,+91-9000000000,Industrial Area Phase 1,Bengaluru,Karnataka,560001,India,Net 30,Procurement,Approved,1
+

@@ -1,0 +1,3 @@
+po_number,po_date,vendor_code,vendor_name,department,currency,line_number,material_code,material_description,ordered_qty,unit,unit_price,tax_rate
+PO-2026-0001,2026-08-18,V001,Sample Supplier,Warehouse,INR,1,MAT-001,Sample Material,100,EA,25.50,18
+
